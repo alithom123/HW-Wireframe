@@ -27,8 +27,6 @@ section {
     padding: 25px 6px 6px 6px;
     margin: 0px 25px 12px 0px;
     float: left;
-    /* margin: 0px 10px; */
-    /* margin: 6px auto 6px auto; */
 }
 
 #section-text {
@@ -59,6 +57,8 @@ aside {
     width: 428px;
     float: left;
     padding: 174px 0px;
+    /* I'm unsure how to make this aside match the width of the section next to it with hard-coding it. */
+    /* Also unsure if floating was the right choice here, I had to hardcode the width of the aside so it fit. */
 }
 
 article {
@@ -76,14 +76,3 @@ footer {
     text-align: center;
     padding: 25px 0px;
 }
-
-
-/* <div class="container">
-<section>section
-    <article>Article</article>
-    <h1>h1,</h1><h2>h2,</h2><h3>h3</h3>
-    <p>p</p>
-</section>
-</div> */
-
-/* float, padding, margin, display, overflow, clear and text-align. */
