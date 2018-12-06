@@ -58,7 +58,7 @@ aside {
     text-align: center;
     width: 428px;
     float: left;
-    padding: 155px 0px;
+    padding: 174px 0px;
 }
 
 article {
@@ -67,6 +67,7 @@ article {
 
 p {
     margin: 25px 6px; 
+    padding: 10px 0px;
 }
 
 footer {
